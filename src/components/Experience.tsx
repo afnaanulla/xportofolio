@@ -55,6 +55,20 @@ export const Experience: React.FC = () => {
       ],
       isActive: false
     },
+    {
+      company: 'Uber India Systems Pvt. Ltd.',
+      role: 'Full Stack Developer Intern',
+      period: 'Feb 2025 – Apr 2025',
+      location: 'Visakhapatnam COE',
+      description: 'Worked on scalable backend and frontend systems as part of the full-stack development team.',
+      highlights: [
+        'Built and deployed features using Node.js, Express, and MongoDB in a microservice-based architecture',
+        'Contributed to frontend modules using Angular and React for internal tools',
+        'Collaborated with senior developers on API integrations and performance optimization',
+        'Participated in agile sprints, planning sessions, and code reviews'
+      ]
+    }
+
   ];
 
   return (
